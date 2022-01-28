@@ -7,5 +7,5 @@ A crude tool for generating random NFT images and metadata.
 ```
 git clone <this-repo>
 npm install
-npm run generate --amount=10
+npm run generate --amount={the sky's the limit}
 ```
